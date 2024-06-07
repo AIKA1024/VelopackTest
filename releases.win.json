@@ -5,24 +5,24 @@
       "Version": "1.0.1",
       "Type": "Full",
       "FileName": "AutoInstall-1.0.1-full.nupkg",
-      "SHA1": "32651EDB54E2CC4B2082E8D85BEC1F31DB0B5D91",
-      "Size": 1775660
+      "SHA1": "DB806EF16DD73FF698A5134A1797B47DE6CEE2F2",
+      "Size": 1775671
     },
     {
       "PackageId": "AutoInstall",
       "Version": "1.0.1",
       "Type": "Delta",
       "FileName": "AutoInstall-1.0.1-delta.nupkg",
-      "SHA1": "B439B8D8D70DAF760DB07CEFBE29FB0A0C014159",
-      "Size": 4746
+      "SHA1": "CD3EFD746A184A7686E8B2F720C033D10E0DFCA3",
+      "Size": 4747
     },
     {
       "PackageId": "AutoInstall",
       "Version": "1.0.0",
       "Type": "Full",
       "FileName": "AutoInstall-1.0.0-full.nupkg",
-      "SHA1": "8BED3CF23BF94074A17848E5A9372936175454C3",
-      "Size": 1775642
+      "SHA1": "7DC8EB8FFAF4AC609A56E1A49A68C9C5002877BB",
+      "Size": 1775653
     }
   ]
 }
